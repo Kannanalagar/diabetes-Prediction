@@ -23,7 +23,7 @@
 
 - 👨💻All of my projects are available at [https://github.com/kannan](https://github.com/kannan)
 
-<img src="https://www.google.com/imgres?q=gif%20codeing&imgurl=https%3A%2F%2Fmedia.tenor.com%2FGfSX-u7VGM4AAAAM%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&tbnid=-ZNRscr8kcjyFM&vet=12ahUKEwi9oZWP2r-IAxVYVWwGHZfPG04QM3oECFIQAA..i&w=220&h=122&hcb=2&ved=2ahUKEwi9oZWP2r-IAxVYVWwGHZfPG04QM3oECFIQAA" height=15% width=40% align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAd"right">
 
 
 
