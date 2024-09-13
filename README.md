@@ -17,14 +17,13 @@
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
+
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> <img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Computer%20Vision-blue?style=for-the-badge&logo=computer-vision&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-
 
 - 👨💻All of my projects are available at [https://github.com/kannan](https://github.com/kannan)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAd"right">
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FdZX3AduGrY3uJ7qCsx&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAl" height=15% width=40% align="right">
 
 
 # Diabetes Prediction Flask Web App
