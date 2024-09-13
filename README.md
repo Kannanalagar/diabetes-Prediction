@@ -23,7 +23,7 @@
 
 - 👨💻All of my projects are available at [https://github.com/kannan](https://github.com/kannan)
 
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAZ" height=15% width=40% align="right">
 
 
 
