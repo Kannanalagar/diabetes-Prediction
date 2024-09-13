@@ -23,7 +23,7 @@
 - 👨💻All of my projects are available at [https://github.com/kannan](https://github.com/kannan)
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FdZX3AduGrY3uJ7qCsx&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAl" height=15% width=40% align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw2kR20VVBWo2Wzmbn_2T_Km&ust=1726309488098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCID54pPav4gDFQAAAAAdAAAAABAt" height=15% width=40% align="right">
 
 
 # Diabetes Prediction Flask Web App
