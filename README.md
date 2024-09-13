@@ -1,6 +1,6 @@
 # Welcome to [kannan a](https://github.com/kannan/) profile! <a href="https://github.com/kannan/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="file:///C:/Users/admin/Downloads/work-on-computer.htm" height=15% width=40% align="right">
+### I'm a...   <img src="work-on-computer.htm" height=15% width=40% align="right">
 
 * Future Web develober 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
