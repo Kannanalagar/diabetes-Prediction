@@ -1,6 +1,6 @@
 # Welcome to [kannan a](https://github.com/kannan/) profile! <a href="https://github.com/kannan/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwork-on-computer&psig=AOvVaw10WgdOZ64J86GQIrhdyCHS&ust=1726310314685000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCIzZrdv4gDFQAAAAAdAAAAABAE" height=15% width=40% align="right">
 
 * Future Web develober 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
